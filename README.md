@@ -10,7 +10,7 @@
 **2024**
   - **운영진** (2024.01~)
   - Session은 Guide Session, Basic Session, ML Session, Deep Session으로 이루어짐
-  - 각 session 별 운영진이 맡은 파트에 대해 발표 및 실습파일, 과제 공유
+  - 각 session 별 운영진이 맡은 파트에 대해 발표 진행 및 실습파일, 과제 공유
 
 | Session | 내용 |
 | :------: | :------: |
@@ -24,17 +24,17 @@
 <br/>
 
 **&nbsp;&nbsp;맡은 파트**
-| Session | 파트 | 자료 | 영상 |
+| Session | 파트 | 발표 자료 | 발표 영상 |
 | :------: | :------: | :------: | :------: |
 | Guide Session |  |  |  |  
-| Basic Session | 시각화 (pandas,matplolib,seaborn) | [링크](https://github.com/hsjo827/KMU_DNA/tree/main/2024/Basic%20Session) | [링크](https://www.youtube.com/watch?v=CIJ2a-2UHMA) |
+| Basic Session | 시각화 (pandas, matplolib, seaborn) | [링크](https://github.com/hsjo827/KMU_DNA/tree/main/2024/Basic%20Session) | [링크](https://www.youtube.com/watch?v=CIJ2a-2UHMA) |
 | ML Session    |  |  |  |
-| Deep Session  | NLP 심화 (RNN,LSTM,GRU,Seq2Seq) | [링크](https://github.com/hsjo827/KMU_DNA/tree/main/2024/Deep%20Session) | [링크](https://www.youtube.com/watch?v=UqjjY3UHo4E) |
+| Deep Session  | NLP 심화 (RNN, LSTM, GRU, Seq2Seq) | [링크](https://github.com/hsjo827/KMU_DNA/tree/main/2024/Deep%20Session) | [링크](https://www.youtube.com/watch?v=UqjjY3UHo4E) |
 
 <br/>
 
-- 학회 홈페이지: https://cms.kookmin.ac.kr/dna/index.do
-- 학회 유튜브: https://www.youtube.com/@kmudna/featured
-- 학회 인스타그램: https://www.instagram.com/kmu_dna/
+- 학회 홈페이지 : https://cms.kookmin.ac.kr/dna/index.do
+- 학회 유튜브 : https://www.youtube.com/@kmudna/featured
+- 학회 인스타그램 : https://www.instagram.com/kmu_dna/
 
 
