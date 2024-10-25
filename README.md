@@ -8,7 +8,7 @@
 <br/>
 
 **2024**
-  - **운영진** (2024.01~)
+  - **운영진** (2024.01~2024.12)
   - Session은 Guide Session, Basic Session, ML Session, Deep Session으로 이루어짐
   - 각 session 별 운영진이 맡은 파트에 대해 발표 진행 및 실습파일, 과제 공유
 
@@ -26,9 +26,9 @@
 **&nbsp;&nbsp;맡은 파트**
 | Session | 파트 | 발표 자료 | 발표 영상 |
 | :------: | :------: | :------: | :------: |
-| Guide Session |  |  |  |  
+| Guide Session | 딥러닝 |  |  |  
 | Basic Session | 시각화 (pandas, matplolib, seaborn) | [링크](https://github.com/hsjo827/KMU_DNA/tree/main/2024/Basic%20Session) | [링크](https://www.youtube.com/watch?v=CIJ2a-2UHMA) |
-| ML Session    |  |  |  |
+| ML Session    | AutoML |  |  |
 | Deep Session  | NLP 심화 (RNN, LSTM, GRU, Seq2Seq) | [링크](https://github.com/hsjo827/KMU_DNA/tree/main/2024/Deep%20Session) | [링크](https://www.youtube.com/watch?v=UqjjY3UHo4E) |
 
 <br/>
