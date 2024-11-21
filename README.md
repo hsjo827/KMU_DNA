@@ -14,7 +14,7 @@
 
 | Session | 내용 |
 | :------: | :------: |
-| Guide Session | Python, 머신러닝, 딥러닝 기초 & 기업 견학을 포함한 다양한 실습과 프로젝트 |
+| Guide Session | Python, 머신러닝, 딥러닝 기초|
 | Basic Session | Python 기초 및 데이터 분석, 시각화 & EDA Competition |
 | ML Session | 머신러닝 이론 및 실습 & ML Competition |
 | Deep Session | 딥러닝 이론 및 실습 & 논문 리뷰 |
@@ -26,10 +26,10 @@
 **&nbsp;&nbsp;맡은 파트**
 | Session | 파트 | 발표 자료 | 발표 영상 |
 | :------: | :------: | :------: | :------: |
-| Guide Session | 딥러닝 |  |  |  
-| Basic Session | 시각화 (pandas, matplolib, seaborn) | [링크](https://github.com/hsjo827/KMU_DNA/tree/main/2024/Basic%20Session) | [링크](https://www.youtube.com/watch?v=CIJ2a-2UHMA) |
-| ML Session    | AutoML |  |  |
-| Deep Session  | NLP 심화 (RNN, LSTM, GRU, Seq2Seq) | [링크](https://github.com/hsjo827/KMU_DNA/tree/main/2024/Deep%20Session) | [링크](https://www.youtube.com/watch?v=UqjjY3UHo4E) |
+| Guide Session | 딥러닝 | [링크](https://github.com/hsjo827/KMU_DNA/tree/main/Guide%20Session) | [링크](https://www.youtube.com/watch?v=jvat7eM9zMQ) |  
+| Basic Session | 시각화 (pandas, matplolib, seaborn) | [링크](https://github.com/hsjo827/KMU_DNA/tree/main/Basic%20Session) | [링크](https://www.youtube.com/watch?v=CIJ2a-2UHMA) |
+| ML Session    | AutoML | [링크](https://github.com/hsjo827/KMU_DNA/tree/main/ML%20Session) | [링크](https://www.youtube.com/watch?v=O99g2yVYeCU) |
+| Deep Session  | NLP 심화 (RNN, LSTM, GRU, Seq2Seq) | [링크](https://github.com/hsjo827/KMU_DNA/tree/main/Deep%20Session) | [링크](https://www.youtube.com/watch?v=UqjjY3UHo4E) |
 
 <br/>
 
